@@ -5,7 +5,7 @@
     "MAINTENANCE_MODE": false,
     "iconUnsend": {
         "status": true,
-        "icon": "❤"
+        "icon": "🖕"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
@@ -14,15 +14,22 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Lương Trường Khôi",
-    "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
-    "PREFIX": "/",
+    "BOTNAME": "𝓘𝓷𝓼𝓪𝓰𝔂𝓸𝓴 𝓑𝓸𝓽🌱",
+    "AMDIN_NAME": "Kiyst",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/17rNieBDjG/",
+    "PREFIX": "!",
     "ADMINBOT": [
-        "100018277053087"
+        "61561101096216",
+        "",
+        "",
+        "",
+        ""
     ],
     "NDH": [
-        "100018277053087"
+        "",
+        "",
+        "",
+        ""
     ],
     "DATABASE": {
         "sqlite": {
