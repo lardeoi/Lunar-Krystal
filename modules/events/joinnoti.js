@@ -49,9 +49,6 @@ module.exports.run = async function({ api, event, Users  , Threads}) {
 "💰 GÓI THUÊ:\n\n" +
 "🟢 1 Tháng  (30 ngày)\n" +
 "🟢 Gia hạn theo ngày (vd: 40 ngày)\n\n\n" +
-"🛒 CÚ PHÁP:\n\n" +
-"➤ !rent add 1T\n" +
-"➤ !rent add 40\n\n\n" +
 "📞 LIÊN HỆ ADMIN:\n\n" +
 "👉 https://www.facebook.com/share/1AqqydaH5m/\n\n" +
 "━━━━━━━━━━━━━━━━━━\n\n" +
